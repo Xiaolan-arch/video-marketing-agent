@@ -1,0 +1,21 @@
+{
+  "task_type": "text_to_image",
+  "note": "",
+  "questions": [],
+  "style": "清新",
+  "prompt": {
+    "subject": "一杯芝士莓莓奶茶，旁侧摆放新鲜草莓",
+    "scene": "原木材质的餐桌桌面",
+    "light": "自然柔光，光线柔和均匀",
+    "composition": "居中构图，主体突出，适配小红书封面3:4画幅，预留适当排版留白",
+    "style": "清新治愈的美食实拍质感",
+    "tone": "低饱和奶油色调"
+  },
+  "samples": [],
+  "copy": {
+    "xiaohongshu": "",
+    "moments": "",
+    "detail": ""
+  },
+  "storyboard": []
+}
